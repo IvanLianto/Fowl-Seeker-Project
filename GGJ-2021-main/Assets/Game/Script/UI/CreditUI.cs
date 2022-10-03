@@ -50,6 +50,7 @@ public class CreditUI : MonoBehaviour
 
     public void GoToNewGame()
     {
+        GameVariables.MainMenuState = MAIN_MENU_STATE.SECOND_CALL;
         SceneManager.LoadScene(sceneName);
     }
 }

@@ -418,7 +418,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 0
   text: {fileID: 1476751759}
-  sceneName: Level 1
+  sceneName: Main Menu
   timeline: {fileID: 1130226658}
 --- !u!1 &950794401
 GameObject:
@@ -656,7 +656,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1374010636
 RectTransform:
   m_ObjectHideFlags: 0
@@ -711,22 +711,26 @@ MonoBehaviour:
   m_Text: 'CREDIT
 
 
-    DESIGNER
-
-    ALKAUTSAR MIKA G.
-
-    BINTANG FATHUR RAHMAN
-
-
-    ARTIST
-
-    BINTANG
-    FATHUR RAHMAN
-
-
     PROGRAMMER
 
-    IVAN LIANTO'
+    IVAN LIANTO
+
+
+    THANKS TO
+
+    DAFONT
+
+    ITCH
+    IO
+
+    KEYS OF MOON MUSIC (SOUND CLOUD)
+
+    SPONGEBOB SOUNDTRACK (YOUTUBE)
+
+    RAION
+    COMMUNITY
+
+'
 --- !u!222 &1374010638
 CanvasRenderer:
   m_ObjectHideFlags: 0

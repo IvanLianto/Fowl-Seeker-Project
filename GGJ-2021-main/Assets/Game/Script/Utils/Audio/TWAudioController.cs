@@ -3,7 +3,6 @@
  * Created by TomWill
  */
 using DG.Tweening;
-using Fungus;
 using JetBrains.Annotations;
 using System.Collections;
 using System.Collections.Generic;

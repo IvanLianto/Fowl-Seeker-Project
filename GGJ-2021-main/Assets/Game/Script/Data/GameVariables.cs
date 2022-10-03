@@ -6,4 +6,6 @@
     public static bool GAME_OVER;
     public static bool GAME_RETRY;
     public static bool STILL_ALIVE;
+
+    public static MAIN_MENU_STATE MainMenuState = MAIN_MENU_STATE.FIRST_CALL;
 }
